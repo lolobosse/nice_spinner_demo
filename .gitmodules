@@ -1,0 +1,3 @@
+[submodule "nice-spinner"]
+	path = nice-spinner
+	url = https://github.com/lolobosse/nice-spinner.git
